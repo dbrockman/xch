@@ -1,0 +1,8 @@
+.currencies
+  each currency in currencies
+    .currency(id='currency-#{currency.code}')
+      .name #{currency.name} (#{currency.code})
+      .field
+        i.flag(class=currency.flag)
+        input(type='text', id='input-#{currency.code}')
+      .result
