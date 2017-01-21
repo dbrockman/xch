@@ -3,13 +3,13 @@
   "version": "0.0.1",
   "description": "",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-jade": "~0.8.0",
-    "grunt-contrib-stylus": "~0.9.0",
-    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~1.0.1",
+    "grunt-contrib-jade": "~1.0.0",
+    "grunt-contrib-stylus": "~1.2.0",
+    "grunt-contrib-watch": "~1.0.0",
     "grunt-browserify2": "~0.1.8",
-    "uglify-js": "~2.4.1",
-    "jade": "~0.35.0",
-    "simple-jadeify": "~2.0.1"
+    "uglify-js": "~2.7.5",
+    "jade": "~1.11.0",
+    "simple-jadeify": "~2.1.0"
   }
 }
